@@ -57,7 +57,10 @@ flowchart TD
 
 ---
 
-## 5 Interview Mastery Guides
+## Interview Pitch & 5 Mastery Guides
+
+> 🎙️ **Need to pitch this project in under 2 minutes?** Check out the word-for-word interview pitch script with timing marks and delivery cues:  
+> 📄 **[CAREQ_INTERVIEW_PITCH_SCRIPT.md](docs/CAREQ_INTERVIEW_PITCH_SCRIPT.md)**
 
 Every module includes an exhaustive senior/staff-level interview preparation guide detailing architectural trade-offs, alternative designs, failure modes, and deep follow-up questions:
 
